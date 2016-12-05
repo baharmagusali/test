@@ -3,6 +3,6 @@
 
 int main() {
 	char isim[80];
-	printf("hello world\n");
+	printf("hello world %s\n");
 	return EXIT_SUCCESS;
 }
